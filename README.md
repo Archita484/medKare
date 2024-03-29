@@ -1,4 +1,4 @@
 # medKare
 Psychology based website
 <br>
-Author-Archita Debnath
+Author-Archita Debnath(Btech)
